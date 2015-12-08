@@ -1,9 +1,0 @@
-{
-    "repos": "https://github.com/facebook/react.git",
-    "version": "v0.14.3",
-    "name": "react-addons-create-fragment",
-    "main": "index.js",
-    "dependencies": {
-        "react": "^0.14.3"
-    }
-}
