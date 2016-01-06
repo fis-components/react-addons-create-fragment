@@ -1,1 +1,1 @@
-module.exports = require('react').addons.createFragment;
+module.exports = require('react/lib/ReactFragment').create;
